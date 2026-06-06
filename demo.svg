@@ -27,14 +27,14 @@
   </style>
   <text x="10" y="30" style="font-family: sans-serif; font-weight: bold;">Helveticon glyphs</text>
   <text x="200" y="30"><tspan class="helveticon">CH</tspan> CH U+F000</text>
-  <text x="10" y="60"><tspan class="helveticon">Ag</tspan> Ag U+F001</text>
-  <text x="10" y="90"><tspan class="helveticon">Ar</tspan> Ar U+F002</text>
+  <text x="10" y="60"><tspan class="helveticon">AG</tspan> AG U+F001</text>
+  <text x="10" y="90"><tspan class="helveticon">AR</tspan> AR U+F002</text>
   <text x="10" y="120"><tspan class="helveticon">AI</tspan> AI U+F003</text>
   <text x="10" y="150"><tspan class="helveticon">BL</tspan> BL U+F004</text>
   <text x="10" y="180"><tspan class="helveticon">BS</tspan> BS U+F005</text>
   <text x="10" y="210"><tspan class="helveticon">BE</tspan> BE U+F006</text>
   <text x="10" y="240"><tspan class="helveticon">FR</tspan> FR U+F007</text>
-  <text x="150" y="60"><tspan class="helveticon">Ge</tspan> Ge U+F008</text>
+  <text x="150" y="60"><tspan class="helveticon">GE</tspan> GE U+F008</text>
   <text x="150" y="90"><tspan class="helveticon">GL</tspan> GL U+F009</text>
   <text x="150" y="120"><tspan class="helveticon">GR</tspan> GR U+F00A</text>
   <text x="150" y="150"><tspan class="helveticon">JU</tspan> JU U+F00B</text>

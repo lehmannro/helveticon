@@ -17,14 +17,14 @@ and a ligature per their
 
 | Canton                 | Ligature | Codepoint |
 | ---------------------- | -------- | --------- |
-| Aargau                 | `Ag`     | `U+F001`  |
-| Appenzell-Ausserrhoden | `Ar`     | `U+F002`  |
+| Aargau                 | `AG`     | `U+F001`  |
+| Appenzell-Ausserrhoden | `AR`     | `U+F002`  |
 | Appenzell-Innerrhoden  | `AI`     | `U+F003`  |
 | Basel-Landschaft       | `BL`     | `U+F004`  |
 | Basel-Stadt            | `BS`     | `U+F005`  |
 | Bern                   | `BE`     | `U+F006`  |
 | Fribourg               | `FR`     | `U+F007`  |
-| Geneva                 | `Ge`     | `U+F008`  |
+| Geneva                 | `GE`     | `U+F008`  |
 | Glarus                 | `GL`     | `U+F009`  |
 | Graubünden             | `GR`     | `U+F00A`  |
 | Jura                   | `JU`     | `U+F00B`  |
@@ -65,6 +65,17 @@ For completeness, the Swiss flag is also included:
 | Country     | Ligature | Codepoint |
 | ----------- | -------- | --------- |
 | Switzerland | `CH`     | `U+F000`  |
+
+## Installation
+
+```css
+@font-face {
+  font-family: "Helveticon";
+  src: url("https://cdn.jsdelivr.net/gh/lehmannro/helveticon@master/fonts/Helveticon.woff2") format("woff2");
+}
+```
+
+You can then use
 
 ## Related projects
 
