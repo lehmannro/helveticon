@@ -1,0 +1,137 @@
+[class^="helveticon-"], [class*=" helveticon-"] {
+  font-family: "Helveticon" !important;
+
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+
+  text-transform: none;
+  line-height: 1;
+  letter-spacing: 0;
+
+  font-feature-settings: "liga";
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+
+  font-variant-ligatures: discretionary-ligatures;
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.helveticon-switzerland:before {
+  content: "\f000";
+}
+
+.helveticon-aargau:before {
+  content: "\f001";
+}
+.helveticon-appenzell-ausserrhoden:before {
+  content: "\f002";
+}
+.helveticon-appenzell-innerrhoden:before {
+  content: "\f003";
+}
+.helveticon-basel-landschaft:before {
+  content: "\f004";
+}
+.helveticon-basel-stadt:before {
+  content: "\f005";
+}
+.helveticon-bern:before {
+  content: "\f006";
+}
+.helveticon-fribourg:before {
+  content: "\f007";
+}
+.helveticon-geneva:before {
+  content: "\f008";
+}
+.helveticon-glarus:before {
+  content: "\f009";
+}
+.helveticon-graubuenden:before {
+  content: "\f00a";
+}
+.helveticon-jura:before {
+  content: "\f00b";
+}
+.helveticon-lucerne:before {
+  content: "\f00c";
+}
+.helveticon-neuchatel:before {
+  content: "\f00d";
+}
+.helveticon-nidwalden:before {
+  content: "\f00e";
+}
+.helveticon-obwalden:before {
+  content: "\f00f";
+}
+.helveticon-st-gallen:before {
+  content: "\f010";
+}
+.helveticon-schaffhausen:before {
+  content: "\f011";
+}
+.helveticon-schwyz:before {
+  content: "\f012";
+}
+.helveticon-solothurn:before {
+  content: "\f013";
+}
+.helveticon-thurgau:before {
+  content: "\f014";
+}
+.helveticon-ticino:before {
+  content: "\f015";
+}
+.helveticon-uri:before {
+  content: "\f016";
+}
+.helveticon-valais:before {
+  content: "\f017";
+}
+.helveticon-vaud:before {
+  content: "\f018";
+}
+.helveticon-zug:before {
+  content: "\f019";
+}
+.helveticon-zurich:before {
+  content: "\f01a";
+}
+
+.helveticon-stadt-zuerich:before {
+  content: "\f020";
+}
+.helveticon-ville-de-geneve:before {
+  content: "\f021";
+}
+.helveticon-basel:before {
+  content: "\f022";
+}
+.helveticon-lausanne:before {
+  content: "\f023";
+}
+.helveticon-stadt-bern:before {
+  content: "\f024";
+}
+.helveticon-winterthur:before {
+  content: "\f025";
+}
+.helveticon-stadt-luzern:before {
+  content: "\f026";
+}
+.helveticon-stadt-st-gallen:before {
+  content: "\f027";
+}
+.helveticon-lugano:before {
+  content: "\f028";
+}
+.helveticon-biel:before {
+  content: "\f029";
+}

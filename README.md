@@ -66,16 +66,48 @@ For completeness, the Swiss flag is also included:
 | ----------- | -------- | --------- |
 | Switzerland | `CH`     | `U+F000`  |
 
-## Installation
+## Usage
+
+> [!NOTE]
+> The css/ directory provides `helveticon.css` for basic setup and `helveticons.css` for per-glyph CSS classes.
+
+Add the webfont:
 
 ```css
 @font-face {
   font-family: "Helveticon";
   src: url("https://cdn.jsdelivr.net/gh/lehmannro/helveticon@master/fonts/Helveticon.woff2") format("woff2");
 }
+.helveticon {
+  font-family: "Helveticon";
+}
 ```
 
-You can then use
+You can then reference glyphs either by codepoint or ligature, for example to render the Canton of Zurich's flag:
+
+```html
+<span class="helveticon">&#xF01A;</span>
+<span class="helveticon">ZH</span>
+```
+
+Alternatively, you could use CSS classes to inject the glyph:
+
+```html
+<style>
+.helveticon-zh:before {
+  font-family: "Helveticon";
+  content: "\F01A"
+}
+</style>
+<span class="helveticon-zh"></span>
+```
+
+> [!TIP]
+> Speed up loading of the fonts with an instruction like the following:
+>
+> ```html
+> <link rel="preload" href="https://cdn.jsdelivr.net/gh/lehmannro/helveticon@master/fonts/Helveticon.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+> ```
 
 ## Related projects
 
