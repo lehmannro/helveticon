@@ -2,11 +2,20 @@
 
 Icon font containing flags of all Swiss cantons and the 10 largest cities.
 
-<p align="center"><strong><a href="https://lehmannro.github.io/helveticon/demo.svg">Demo</a></strong></p>
+## Quickstart
+
+<h3 align="center"><a href="https://lehmannro.github.io/helveticon/demo.svg">Demo</a></h3>
 
 This webfont can be used to replace cantonal two-letter codes with their flag
 representation, or more generally to easily insert cantonal and some municipal
-flags into Web pages.
+flags into Web pages:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lehmannro/helveticon@master/css/helveticon.css" />
+<link rel="preload" href="https://cdn.jsdelivr.net/gh/lehmannro/helveticon@master/fonts/Helveticon.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+<span class="helveticon">ZH</span>
+```
 
 ## Icons
 
@@ -69,7 +78,8 @@ For completeness, the Swiss flag is also included:
 ## Usage
 
 > [!NOTE]
-> The css/ directory provides `helveticon.css` for basic setup and `helveticons.css` for per-glyph CSS classes.
+> The css/ directory provides `helveticon.css` for basic setup and
+> `helveticons.css` for per-glyph CSS classes.
 
 Add the webfont:
 
@@ -83,7 +93,8 @@ Add the webfont:
 }
 ```
 
-You can then reference glyphs either by codepoint or ligature, for example to render the Canton of Zurich's flag:
+You can then reference glyphs either by codepoint or ligature, for example to
+render the Canton of Zurich's flag:
 
 ```html
 <span class="helveticon">&#xF01A;</span>
