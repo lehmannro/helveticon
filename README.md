@@ -2,7 +2,7 @@
 
 Icon font containing flags of all Swiss cantons and the 10 largest cities.
 
-![Demo](demo.svg)
+![Demo](https://lehmannro.github.io/helveticon/demo.svg)
 
 This webfont can be used to replace cantonal two-letter codes with their flag
 representation, or more generally to easily insert cantonal and some municipal
