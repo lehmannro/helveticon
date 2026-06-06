@@ -13,7 +13,7 @@ flags into Web pages.
 Each Swiss canton is included with a codepoint in the
 [Unicode *Private Use Area*](https://en.wikipedia.org/wiki/Private_Use_Areas)
 and a ligature per their
-[two-letter code](https://www.bfs.admin.ch/bfs/en/home/basics/symbols-abbreviations.html).[^1]
+[two-letter code](https://www.bfs.admin.ch/bfs/en/home/basics/symbols-abbreviations.html).
 
 | Canton                 | Ligature | Codepoint |
 | ---------------------- | -------- | --------- |
@@ -44,7 +44,7 @@ and a ligature per their
 | Zug                    | `ZG`     | `U+F019`  |
 | Zurich                 | `ZH`     | `U+F01A`  |
 
-The ten largest cities[^2] (or, rather, municipalities) are also included, with
+The ten largest cities[^1] (or, rather, municipalities) are also included, with
 their ligature chosen as per the closest airport:
 
 | City             | Ligature | Codepoint |
@@ -131,10 +131,7 @@ Commons:
 [cantonal](https://commons.wikimedia.org/wiki/Flags_of_cantons_of_Switzerland),
 [municipal](https://commons.wikimedia.org/wiki/Category:Flags_of_municipalities_of_Switzerland).
 
-[^1]: Ligatures are usually all uppercase, except where not otherwise possible;
-    in those cases they are capitalized only.
-
-[^2]: As per Wikipedia's
+[^1]: As per Wikipedia's
     [List of cities in Switzerland](https://en.wikipedia.org/wiki/List_of_cities_in_Switzerland)
     ([May 2026](https://en.wikipedia.org/w/index.php?title=List_of_cities_in_Switzerland&oldid=1346370247)
     revision with
