@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 400" width="800" height="400">
+  <style>
+    @font-face {
+      font-family: "Helveticon";
+      src: url("https://cdn.jsdelivr.net/gh/lehmannro/helveticon@master/fonts/Helveticon.woff2") format("woff2");
+      font-weight: normal;
+      font-style: normal;
+      font-display: block;
+    }
+    text {
+      font: 16px monospace;
+      fill: black;
+    }
+    .helveticon {
+      font: 24px "Helveticon";
+      text-shadow: 1px 1px 2px black;
+      -webkit-font-feature-settings: "liga";
+      -moz-font-feature-settings: "liga=1";
+      -moz-font-feature-settings: "liga";
+      -ms-font-feature-settings: "liga" 1;
+      font-feature-settings: "liga";
+      -webkit-font-variant-ligatures: discretionary-ligatures;
+      font-variant-ligatures: discretionary-ligatures;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+  </style>
+  <text x="10" y="30" style="font-family: sans-serif; font-weight: bold;">Helveticon glyphs</text>
+  <text x="200" y="30"><tspan class="helveticon">CH</tspan> CH U+F000</text>
+  <text x="10" y="60"><tspan class="helveticon">Ag</tspan> Ag U+F001</text>
+  <text x="10" y="90"><tspan class="helveticon">Ar</tspan> Ar U+F002</text>
+  <text x="10" y="120"><tspan class="helveticon">AI</tspan> AI U+F003</text>
+  <text x="10" y="150"><tspan class="helveticon">BL</tspan> BL U+F004</text>
+  <text x="10" y="180"><tspan class="helveticon">BS</tspan> BS U+F005</text>
+  <text x="10" y="210"><tspan class="helveticon">BE</tspan> BE U+F006</text>
+  <text x="10" y="240"><tspan class="helveticon">FR</tspan> FR U+F007</text>
+  <text x="150" y="60"><tspan class="helveticon">Ge</tspan> Ge U+F008</text>
+  <text x="150" y="90"><tspan class="helveticon">GL</tspan> GL U+F009</text>
+  <text x="150" y="120"><tspan class="helveticon">GR</tspan> GR U+F00A</text>
+  <text x="150" y="150"><tspan class="helveticon">JU</tspan> JU U+F00B</text>
+  <text x="150" y="180"><tspan class="helveticon">LU</tspan> LU U+F00C</text>
+  <text x="150" y="210"><tspan class="helveticon">NE</tspan> NE U+F00D</text>
+  <text x="150" y="240"><tspan class="helveticon">NW</tspan> NW U+F00E</text>
+  <text x="290" y="60"><tspan class="helveticon">OW</tspan> OW U+F00F</text>
+  <text x="290" y="90"><tspan class="helveticon">SG</tspan> SG U+F010</text>
+  <text x="290" y="120"><tspan class="helveticon">SH</tspan> SH U+F011</text>
+  <text x="290" y="150"><tspan class="helveticon">SZ</tspan> SZ U+F012</text>
+  <text x="290" y="180"><tspan class="helveticon">SO</tspan> SO U+F013</text>
+  <text x="290" y="210"><tspan class="helveticon">TG</tspan> TG U+F014</text>
+  <text x="430" y="60"><tspan class="helveticon">TI</tspan> TI U+F015</text>
+  <text x="430" y="90"><tspan class="helveticon">UR</tspan> UR U+F016</text>
+  <text x="430" y="120"><tspan class="helveticon">VS</tspan> VS U+F017</text>
+  <text x="430" y="150"><tspan class="helveticon">VD</tspan> VD U+F018</text>
+  <text x="430" y="180"><tspan class="helveticon">ZG</tspan> ZG U+F019</text>
+  <text x="430" y="210"><tspan class="helveticon">ZH</tspan> ZH U+F01A</text>
+  <text x="10" y="300"><tspan class="helveticon">ZRH</tspan> ZRH U+F020</text>
+  <text x="10" y="330"><tspan class="helveticon">GVA</tspan> GVA U+F021</text>
+  <text x="10" y="360"><tspan class="helveticon">BSL</tspan> BSL U+F022</text>
+  <text x="160" y="300"><tspan class="helveticon">QLS</tspan> QLS&#160; U+F023</text>
+  <text x="160" y="330"><tspan class="helveticon">BRN</tspan> BRN&#160; U+F024</text>
+  <text x="160" y="360"><tspan class="helveticon">LSPH</tspan> LSPH U+F025</text>
+  <text x="310" y="300"><tspan class="helveticon">LSZO</tspan> LSZO U+F026</text>
+  <text x="310" y="330"><tspan class="helveticon">ACH</tspan> ACH&#160; U+F027</text>
+  <text x="460" y="300"><tspan class="helveticon">LUG</tspan> LUG&#160; U+F028</text>
+  <text x="460" y="330"><tspan class="helveticon">LSZP</tspan> LSZP U+F029</text>
+</svg>
